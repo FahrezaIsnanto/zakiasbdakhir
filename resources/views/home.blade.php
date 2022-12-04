@@ -1,12 +1,12 @@
 @extends('layout')
 
 @section('content')
-  
-<p>ini adalah halaman home</p>
 
-<h1 class="mt-4">Database</h1>
+<br>
 
-<div class="card mb-2">
+<h1 class="mt-4">SELAMAT DATANG PADA DATABASE FARMASI ZAKIA MARRIT</h1>
+
+<!-- <div class="card mb-2">
     <div class="p-3 mb-2 bg-warning text-dark">Join Table</div>
     <table class="table table-hover mt-2">
         <thead>
@@ -111,7 +111,7 @@
 
         </tbody>
     </table>
-</div>
+</div> -->
 
 
 
